@@ -2,6 +2,8 @@
 
 <!-- {% raw %} -->
 
+> 📘 **Nouveau** : [Guide Complet 0 → Hero (FR)](./GUIDE_COMPLET.md) · [Exercices avancés (FR)](./EXERCICES_AVANCES.md) · [Préparation entretien (FR)](./INTERVIEW.md)
+
 ### Ansible Exercises
 
 |Name|Topic|Objective & Instructions|Solution|Comments|

@@ -1271,3 +1271,5 @@ What you probably want to avoid using:
 
 Use tags. You can distinguish between different releases of a project using image tags. There is no need to create an entire separate image for version/release of a project.
 </b></details>
+
+> 📘 **Nouveau Docker** : [Guide Complet 0 → Hero (FR)](./GUIDE_COMPLET_DOCKER.md) · [Exercices avancés (FR)](./EXERCICES_AVANCES_DOCKER.md) · [Préparation entretien (FR)](./INTERVIEW_DOCKER.md)
